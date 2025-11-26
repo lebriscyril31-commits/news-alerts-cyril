@@ -2,8 +2,8 @@ import time
 import feedparser
 from telegram import Bot
 
-BOT_TOKEN = "TON_NOUVEAU_TOKEN_ICI"  # mets ici le NOUVEAU token (sans me le montrer)
-CHAT_ID = TON_CHAT_ID_ICI            # remplace par ton chat_id numérique (ex: 123456789)
+BOT_TOKEN = "7964522892:AAGtb5zx44wa9IZzpXF6aMWKbyGQ1Eb5Vhw"  # mets ici le NOUVEAU token (sans me le montrer)
+CHAT_ID =   6686184318         # remplace par ton chat_id numérique (ex: 123456789)
 CHECK_INTERVAL = 60  # toutes les 60 secondes
 
 KEYWORDS = [
